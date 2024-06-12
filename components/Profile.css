@@ -1,0 +1,14 @@
+/* src/components/Profile.css */
+.profile {
+    padding: 20px;
+  }
+  
+  .profile h1 {
+    font-size: 36px;
+    color: #4a90e2;
+  }
+  
+  .profile p {
+    color: #666;
+  }
+  

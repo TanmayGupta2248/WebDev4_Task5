@@ -1,0 +1,14 @@
+/* src/components/Checkout.css */
+.checkout {
+    padding: 20px;
+  }
+  
+  .checkout h1 {
+    font-size: 36px;
+    color: #4a90e2;
+  }
+  
+  .checkout p {
+    color: #666;
+  }
+  

@@ -1,0 +1,21 @@
+/* src/components/ProductDetail.css */
+.product-detail {
+    padding: 20px;
+  }
+  
+  .product-detail h1 {
+    font-size: 36px;
+    color: #4a90e2;
+  }
+  
+  .product-detail p {
+    color: #666;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  

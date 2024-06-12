@@ -1,0 +1,14 @@
+/* src/components/Cart.css */
+.cart {
+    padding: 20px;
+  }
+  
+  .cart h1 {
+    font-size: 36px;
+    color: #4a90e2;
+  }
+  
+  .cart p {
+    color: #666;
+  }
+  
